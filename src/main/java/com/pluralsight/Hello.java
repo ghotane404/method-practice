@@ -14,13 +14,12 @@ public class Hello {
 
     }
     static  void sayHello(){
-        System.out.println("Hello World");
+        System.out.println("Hello, World!");
     }
     static  void sayGoodbye(){
-        System.out.println("Goodbye World");
+        System.out.println("Goodbye!");
     }
     static  void sayGoodMorning(){
-        System.out.println("Good morning");
+        System.out.println("Good morning!");
     }
-
 }
